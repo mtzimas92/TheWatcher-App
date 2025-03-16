@@ -61,3 +61,9 @@ Built with:
 ## Credits
 Crypto137 for his work on MHServerEmu and some help for extracting all the properties.
 AlexBond007 for the UI pictures and stats calculations from itembase.mhbugle.com.
+
+## Bug Reports 
+Please contact me in discord regarding any bugs you may find and if possible steps to reproduce the error. There is a TheWatcher-Logs.log file that is produced when you run the app but I do not track all the issues. 
+
+## Development Help
+If you want to help with the continued development of this project you are welcome to contact me with any updates you have on the included files, or ideas you have about the application.
