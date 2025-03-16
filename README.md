@@ -2,7 +2,7 @@
 An MHServerEmu-based application that allows you to see your account and character gear/stats away from the game.
 
 ## Setup
-1. Place required game files in  `Data` folder in application directory:
+1. Place required game files (located in Marvel Heroes\Data\Game) in  `Data` folder in application directory:
    ```
    Data/
    └── Game/
