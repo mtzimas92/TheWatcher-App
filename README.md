@@ -51,6 +51,11 @@ Shows calculations for:
 - Attribute-based bonuses
 Updated every time you swap gear. You may need to reopen the stats windows for the updates to be reflected.
 
+### Character Import/Export
+Save your current stats and items and share it with anyone who uses the app.
+
+### The Holy Grail
+A tracker for hardcore enthusiasts, dreaming to get every single item in the game. 
 
 ## Development
 Built with:
