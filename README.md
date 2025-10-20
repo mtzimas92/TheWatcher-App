@@ -28,6 +28,8 @@ An MHServerEmu-based application that allows you to see your account and charact
    ```
 If you are using .json file, set UseJsonDBManager to true and adjust the filename and the PlayerName. The filename must match your json file (you can rename it), and the PlayerName should match your in-game character's name.
 
+If you want to see prototype names of items, set ShowPrototypeNames to true under the [UI] option of the `Config.ini` file. 
+
 ## Usage
 - After you've placed the required files, open the application and wait for it to load.
 - Type your email and click on load. For json database, you can type whatever you want.
